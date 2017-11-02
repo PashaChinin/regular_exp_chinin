@@ -1,0 +1,6 @@
+c:\users\pasha.pasha-пк\documents\visual studio 2015\Projects\Regular_exp\Regular_exp\bin\Debug\Regular_exp.exe.config
+C:\Users\pasha.pasha-ПК\Documents\Visual Studio 2015\Projects\Regular_exp\Regular_exp\bin\Debug\Regular_exp.exe
+C:\Users\pasha.pasha-ПК\Documents\Visual Studio 2015\Projects\Regular_exp\Regular_exp\bin\Debug\Regular_exp.pdb
+C:\Users\pasha.pasha-ПК\Documents\Visual Studio 2015\Projects\Regular_exp\Regular_exp\obj\Debug\Regular_exp.csprojResolveAssemblyReference.cache
+C:\Users\pasha.pasha-ПК\Documents\Visual Studio 2015\Projects\Regular_exp\Regular_exp\obj\Debug\Regular_exp.exe
+C:\Users\pasha.pasha-ПК\Documents\Visual Studio 2015\Projects\Regular_exp\Regular_exp\obj\Debug\Regular_exp.pdb
